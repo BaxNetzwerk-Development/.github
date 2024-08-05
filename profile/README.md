@@ -18,9 +18,9 @@ Bitte stelle sicher, dass du unsere Serverregeln liest und befolgst. Eine freund
 
 ## 🐛 Bugs Melden
 
-Falls du auf einen Bug stößt, kannst du diesen über unseren Discord-Server melden. Wir schätzen dein Feedback und arbeiten stets daran, ein besseres Spielerlebnis zu bieten.
+Falls du auf einen Bug stößt, kannst du diesen über unseren Bugtracker melden. Wir schätzen dein Feedback und arbeiten stets daran, ein besseres Spielerlebnis zu bieten.
 
-**Discord:** [BaxNetzwerk.de/discord](https://baxnetzwerk.de/discord)
+**Discord:** [BaxNetzwerk.de/bugtracker](https://baxnetzwerk.de/bugtracker)
 
 ## 🛠️ Support
 
