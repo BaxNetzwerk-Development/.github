@@ -1,6 +1,7 @@
 # 🌍 BaxNetzwerk Minecraft Server
 
-[![Website BaxNetzwerk.de](https://img.shields.io/website-up-down-green-red/http/baxnetzwerk.de.svg)](http://baxnetzwerk.de/) [![Open Bugreport](https://img.shields.io/badge/-Open Bug Report-F67909?style=flat&logo=openbugbounty&logoColor=white)](https://baxnetzwerk.de/bugtracker) [![Discord](https://badgen.net/discord/members/66K6uha)](http://baxnetzwerk.de/dc)
+[![Website BaxNetzwerk.de](https://img.shields.io/website-up-down-green-red/http/baxnetzwerk.de.svg)](http://baxnetzwerk.de/)  [![Discord](https://badgen.net/discord/members/66K6uha)](http://baxnetzwerk.de/dc) [![Open Bugreport](https://img.shields.io/badge/-Open%20Bug%20Report-F67909?style=flat&logo=openbugbounty&logoColor=white)](https://baxnetzwerk.de/bugtracker)
+
 
 Willkommen zum offiziellen Minecraft Server Projekt von BaxNetzwerk! Dieser Server bietet eine einzigartige Spielerfahrung und eine engagierte Community. 
 
