@@ -23,8 +23,8 @@ Bitte stelle sicher, dass du unsere Serverregeln liest und befolgst. Eine freund
 
 Falls du auf einen Bug oder ein Sicherheits Problem stößt, kannst du diesen über unseren Bugtracker oder Security-Incident Form melden. Wir schätzen dein Feedback und arbeiten stets daran, ein besseres und sicheres Spielerlebnis zu bieten.
 
-**Bugtracker:** [BaxNetzwerk.de/bugtracker](https://baxnetzwerk.de/bugtracker)
-**Security Incident Report:** [baxnetzwerk.de/form/incident-report](https://baxnetzwerk.de/form/incident-report)
+- **Bugtracker:** [BaxNetzwerk.de/bugtracker](https://baxnetzwerk.de/bugtracker)
+- **Security Incident Report:** [baxnetzwerk.de/form/incident-report](https://baxnetzwerk.de/form/incident-report)
 
 ## 🛠️ Support
 
