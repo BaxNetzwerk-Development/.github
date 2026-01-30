@@ -19,12 +19,12 @@ Bitte stelle sicher, dass du unsere Serverregeln liest und befolgst. Eine freund
 
 **Regeln:** [BaxNetzwerk.de/rules](https://baxnetzwerk.de/rules)
 
-## 🐛 Bugs und Security-Incidents Melden
+## 🐛 Bugs und Vulnerability Melden
 
-Falls du auf einen Bug oder ein Sicherheits Problem stößt, kannst du diesen über unseren Bugtracker oder Security-Incident Form melden. Wir schätzen dein Feedback und arbeiten stets daran, ein besseres und sicheres Spielerlebnis zu bieten.
+Falls du auf einen Bug oder eine Vulnerability stößt, kannst du diesen über unseren Bugtracker oder Vulnerability Disclosure melden. Wir schätzen dein Feedback und arbeiten stets daran, ein besseres und sicheres Spielerlebnis zu bieten.
 
 - **Bugtracker:** [BaxNetzwerk.de/bugtracker](https://baxnetzwerk.de/bugtracker)
-- **Security Incident Report:** [baxnetzwerk.de/form/incident-report](https://baxnetzwerk.de/form/incident-report)
+- **Vulnerability Disclosure:** [baxnetzwerk.de/form/vulnerability-disclosure](https://baxnetzwerk.de/form/vulnerability-disclosure)
 
 ## 🛠️ Support
 
