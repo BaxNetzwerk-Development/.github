@@ -34,6 +34,16 @@ Wenn du Hilfe benötigst, kannst du dich ebenfalls an unser Support-Team wenden.
 
 **E-Mail:** [support@BaxNetzwerk.de](mailto:support@baxnetzwerk.de)
 
+## 📦 Third-Party Plugins & Abhängigkeiten
+
+BaxNetzwerk setzt auf ausgewählte Open-Source- und Drittanbieter-Plugins, um einen stabilen,
+performanten und funktionsreichen Minecraft-Serverbetrieb zu ermöglichen.
+
+Aus Gründen der Fairness und Transparenz nennen wir diese Projekte öffentlich und bedanken uns
+bei allen Entwickler:innen und Maintainer:innen für ihre großartige Arbeit.
+
+👉 **Vollständige Übersicht:** [baxnetzwerk.de/third-party](https://baxnetzwerk.de/third-party)
+
 ## 📫 Kontakt
 
 Für weitere Fragen oder Anregungen kannst du uns gerne über unseren Discord-Server oder per E-Mail kontaktieren.
